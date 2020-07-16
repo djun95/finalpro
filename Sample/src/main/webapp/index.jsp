@@ -9,5 +9,6 @@
 <body>
 	 <a href="member.do">회원가입하러 가기</a>
 	 <a href="memberselect.do">회원목록 </a>
+	 sdsdfsdfsd
 </body>
 </html>
